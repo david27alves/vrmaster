@@ -15,5 +15,5 @@ $ chkconfig firebird on
 ## Install Anydesk
 
 ```sh
-$ sudo rpm -ivh 
+$ sudo rpm -ivh mesa-libGLU-9.0.0-4.el7.x86_64.rpm anydesk-4.0.1-1.el7.x86_64.rpm
 ```
