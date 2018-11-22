@@ -11,3 +11,9 @@ $ sudo /etc/init.d/firebird start
 
 $ chkconfig firebird on
 ```
+
+## Install Anydesk
+
+```sh
+$ sudo rpm -ivh 
+```
