@@ -1,4 +1,4 @@
-## Install MATE Desktop CentOS
+## Install MATE Desktop CentOS 7
 
 ```sh
 $ sudo yum groupinstall "Development Tools" -y
