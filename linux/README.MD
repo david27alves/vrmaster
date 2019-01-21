@@ -1,6 +1,7 @@
 ## Install MATE Desktop CentOS 7
 
 ```sh
+$ sudo yum install epel-release -y
 $ sudo yum groupinstall "Development Tools" -y
 $ sudo yum groupinstall "X Window system" -y
 $ sudo yum groups install "MATE Desktop" -y
