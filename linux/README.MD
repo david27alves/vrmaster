@@ -64,7 +64,7 @@ vi /etc/ssh/sshd_config
 ```
 
 ```sh
-	PermitRootLogin = no
+PermitRootLogin = no
 ```
 		
 Desabilitando o Firewall
