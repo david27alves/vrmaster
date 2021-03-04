@@ -187,7 +187,7 @@ No final do arquivo adicionar as linhas de comentários
 ```sh
 [vr]
 
-coment = vr
+comment = vr
 path = /vr
 public = yes
 writable = yes
